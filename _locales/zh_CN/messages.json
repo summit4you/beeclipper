@@ -1,0 +1,14 @@
+{
+   "BrowserActionTitle": {
+      "description": "Title for the browser action that's visible to the user of extension",
+      "message": "Summit的剪辑工具"
+   },
+   "ExtensionDescription": {
+      "description": "Description of the extension as it's visible to the outside world",
+      "message": "Summit的蜜蜂剪辑工具，能够帮你剪辑在网络上看到的内容。"
+   },
+   "ExtensionName": {
+      "description": "Name of the extension as it's visible to the outside world",
+      "message": "蜜蜂剪辑"
+   }
+}
